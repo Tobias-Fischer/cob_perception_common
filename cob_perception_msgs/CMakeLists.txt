@@ -35,6 +35,7 @@ add_message_files(
     PositionMeasurementArray.msg
     Rect.msg
     Skeleton.msg
+    ActionRecognitionmsg.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
